@@ -20,5 +20,5 @@ table {
 		<? endfor;?>
 			
 	</table>
-	
+	<p><a href="index.html">Перейти на головну</a></p>
 </center>
