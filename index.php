@@ -12,6 +12,7 @@
 		<ul class="nav nav-tabs">
 			<li><a href="?page=home">Головна</a><li>
 			<li><a href="?page=math">Таблиця</a></li>
+			<li><a href="?page=calc">Калькулятор</a></li>
 		</ul>
 
         <? router('page') ?>
