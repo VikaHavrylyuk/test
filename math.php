@@ -1,9 +1,3 @@
-<style>
-table {
-   margin: 20px;
-}
-</style>
-
 <center>
 	<h1>Таблиця множення</h1>
 
@@ -20,5 +14,4 @@ table {
 		<? endfor;?>
 			
 	</table>
-	<p><a href="index.html">Перейти на головну</a></p>
 </center>
