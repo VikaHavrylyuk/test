@@ -2,7 +2,7 @@
 	<h1>Калькулятор</h1>
 <form method="POST">
     <input type="text" name="x1">
-    <select name="operation">
+    <select class="form-control" size="2" name="operation">
         <option value="+">+</option>
         <option value="-">-</option>
 		<option value="*">*</option>
