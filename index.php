@@ -9,10 +9,10 @@
 	</head>
 	
 	<body>
-
-        <center>
-            <a href="?page=math">Таблиця</a> | <a href="?page=home">Головна</a>
-        </center>
+		<ul class="nav nav-tabs">
+			<li><a href="?page=home">Головна</a><li>
+			<li><a href="?page=math">Таблиця</a></li>
+		</ul>
 
         <? router('page') ?>
 	</body>
